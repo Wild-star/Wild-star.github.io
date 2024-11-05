@@ -21,13 +21,13 @@ repository               : "Wild-star/Wild-star.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture.jpg"
-  name             : #"Your Sidebar Name"
+  avatar           : "picture.png"
+  name             : "Qian HongChang"
   pronouns         : # example: "she/her"  
   bio              : "Le vent se lève, il faut tenter de vivre./纵有疾风起 人生不言弃"
   location         : "SuZhou"
   employer         : ""
-  uri              : # URL
+  uri              : https://Wild-star.github.io
   email            : "20245227015@stu.suda.edu.cn" 
 
   # Academic websites
