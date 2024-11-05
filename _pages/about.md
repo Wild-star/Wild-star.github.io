@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to My Personal Page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from [School of Soochow ](https://suda.edu.cn/). My research interest includes computer vision, computer graphics, machine learning,Stereo Matching and computational photography.
+I'm a first-year graduate student from [School of Soochow ](https://suda.edu.cn/). 
+My research interest includes computer vision, computer graphics, machine learning,Stereo Matching and computational photography.
 
 
 
